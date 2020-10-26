@@ -1,0 +1,14 @@
+{
+  "name": "cloudinary-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "misa198 <Thanh Vu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cloudinary": "^1.23.0",
+    "dotenv": "^8.2.0"
+  }
+}
